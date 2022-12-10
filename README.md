@@ -1,5 +1,5 @@
 # ScRat
-A scuffed remote access tool
+A scuffed windows remote access tool that runs in the background
 
 Features:
 - Remote Shell
