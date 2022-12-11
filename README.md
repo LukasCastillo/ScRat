@@ -10,6 +10,7 @@ Features:
 - Uploading and Downloading files
 
 ## Connecting to a server
+Pass in the server ip and the server port as arguments when running the program.
 `scrat.exe 127.0.0.1(server ip) 1000(server port)`
 
 ## ScRat Server Repo
