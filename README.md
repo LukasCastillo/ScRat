@@ -1,6 +1,9 @@
 # ScRat
 A scuffed windows remote access tool that runs in the background
 
+## Disclamer
+I do not condone the use of this tool for any illegal activity. This is only for educational purposes. 
+
 Features:
 - Remote Shell
 - Remote Screenshot
